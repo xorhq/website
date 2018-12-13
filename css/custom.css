@@ -1,0 +1,45 @@
+.header-soft-mac-img .header-soft-mac-imgx {
+    max-width: 100%;
+}
+
+header-soft-mac-imgx {
+    margin: -110px auto -180px;
+}
+@media (max-width: 768px)
+{
+	.scroll-top {
+	    right: auto;
+	    left: 80%;
+	    top: 60%;
+	    margin-left: 10px;
+	}
+	.footer .logo-image {
+	    top: 60px;
+	}
+
+	html,
+	body{
+		width:100%;
+		overflow-x:hidden;
+		background-color: white;
+	}
+	p { text-align:center;
+		margin: 15px;
+	}
+
+	ui.brands {
+		margin: 15px;
+	}
+
+	.logo-image img {
+		margin-left: 10px;
+	}
+	.header-soft-mac-img {
+		margin: 10px auto -80px;
+	}
+}
+
+.testimonial-photo-wrapper img{
+	height: 83px;
+}
+
